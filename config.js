@@ -41,30 +41,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
-global.sgh = 'https://github.com/Botynyakamu'
-global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
-global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.sig = 'https://instagram.com/gb.milkyway26'
+global.sgh = 'https://github.com/GBMilkyWay26'
+global.sgc = 'https://chat.whatsapp.com/Ez5C0uH0zqF245WCEaOfqC'
+global.sdc = 'https://wa.me/message/DCTH7JLCDZC6L1'
+global.snh = 'https://youtube.com/channel/UCwUJpb0eONIkaKpnw2rKGhw'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '082152008126'
+global.povo = '082152008126'
+global.pgopay = '082152008126'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
+global.nomorbot = '6289531340526'
+global.nomorown = '6282152008126'
 global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nameown = 'ᴹᴿ᭄ 𝕲𝔅.𝑀𝒾𝓁𝓀𝓎𝓦𝓪𝔂❷⑥ঔৣ꧂'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['6282152008126'],
+  ['6282152008126'],
+  ['6282152008126'],
+  ['6282152008126', '𝕲𝔅.𝑀𝒾𝓁𝓀𝓎𝓦𝓪𝔂❷⑥', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
